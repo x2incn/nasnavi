@@ -1,4 +1,5 @@
 <?php
+// copyright 2025 @ x2in
 $jsonFilePath = 'navigation.json';
 
 // 读取 JSON 文件
